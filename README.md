@@ -34,3 +34,11 @@
  ![Snake animation](https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ##
+  
+  ### Olá me chamo Geovanna e gosto bastante de programação 👋
+  
+- 🔭 Atualmente, não estou trabalhando
+- 🌱 Atualmente, estou aprendendo HTML, CSS e JavaScript
+- ⚡ Curiosidade: Gosto de programar, Desenvolver Software gosto de fazer modelagem 3D, animações, desenhar, fazer jogos e editar Videos e fotos
