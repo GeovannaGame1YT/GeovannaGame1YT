@@ -44,6 +44,6 @@
   
 - 🔭 Atualmente, não estou trabalhando
 - 🌱 Atualmente, estou aprendendo HTML, CSS e JavaScript
-- ⚡ Curiosidade: Gosto de programar, Desenvolver Software gosto de fazer modelagem 3D, animações, desenhar, fazer jogos e editar Videos e fotos
+- ⚡ Curiosidade: Gosto de programar, Desenvolver Software gosto de fazer modelagem 3D, animações, desenhar, fazer jogos e editar Videos e foto
   
   
