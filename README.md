@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="GeovannaGameTI" reight"30" Width="30" scr="()">
+  <img align="right" alt="GeovannaGameTI" reight"30" Width="30" scr="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/main/GeovannaGameTI.gif">
   <!-- <img align="right" alt="20211116_204112" scr=("https://user-images.githubusercontent.com/90795502/142094368-4ffb37dd-edd8-4826-98b2-157ca8ee1a17.gif")> -->
   
   
