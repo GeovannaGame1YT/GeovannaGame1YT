@@ -17,7 +17,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Geovanna" scr="https://discord.com/channels/593986768848683009/593986768848683012/910325005219418132/hi.gif">
+  <!-- <img align="right" alt="20211116_204112" scr=("https://user-images.githubusercontent.com/90795502/142094368-4ffb37dd-edd8-4826-98b2-157ca8ee1a17.gif")> -->
+  
+  
 </div>
 
 ##
@@ -43,3 +45,5 @@
 - 🔭 Atualmente, não estou trabalhando
 - 🌱 Atualmente, estou aprendendo HTML, CSS e JavaScript
 - ⚡ Curiosidade: Gosto de programar, Desenvolver Software gosto de fazer modelagem 3D, animações, desenhar, fazer jogos e editar Videos e fotos
+  
+  
