@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Geovanna.gif" scr="https://drive.google.com/file/d/127apGKGwyL0fdiY3msG97jxMmy0aph_y/view?usp=sharing">
+  <img align="right" alt="Geovanna" scr="https://discord.com/channels/593986768848683009/593986768848683012/910325005219418132/hi.gif">
 </div>
 
 ##
