@@ -21,7 +21,8 @@
   <img align="center" alt="Geo-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- <img align="right" alt="GeoTI" height="100" width="100" scr=""> -->
-  <img align="right" alt="GeoTI" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/85a1fe2d37cb8f0c15ed64ce067fd2a2942d1166/.github/workflows/GeovannaGame1TI.gif">
+ <!-- <img align="right" alt="GeoTI" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/85a1fe2d37cb8f0c15ed64ce067fd2a2942d1166/.github/workflows/GeovannaGame1TI.gif">-->
+  <img align="right" alt="GeoTI" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/b23d6d732b36611d71e2a3be7985d2ed7385309d/.github/workflows/GeovnnaG1TI.gif"> 
 </div>
   
 ## <!-- Eu qeuria colocar uma gif aqui pequena mas não sei como fazer isso não chei nada na inetnete como alterar tanho de gif -->
