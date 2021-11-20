@@ -23,8 +23,8 @@
   <!-- <img align="right" alt="GeoTI" height="100" width="100" scr=""> -->
   
 </div>
-
-## 
+  
+## <!-- Eu qeuria colocar uma gif aqui pequena mas não sei como fazer isso não chei nada na inetnete como alterar tanho de gif -->
 
 <div> 
   <a href="https://www.youtube.com/channel/UCusRwGcmycwUyw8j0bQG89w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
