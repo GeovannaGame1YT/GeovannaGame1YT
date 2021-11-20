@@ -25,6 +25,7 @@
 </div>
   
 ## <!-- Eu qeuria colocar uma gif aqui pequena mas não sei como fazer isso não chei nada na inetnete como alterar tanho de gif -->
+  <img align="right" alt="GeoTI" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/5ce65bf63018fca51794838bce1023faa8cc1c16/.github/workflows/GeovannaGame1TI.gif">
 
 <div> <!-- Linkes de redirecionamento com imagems aqui -->
   <a href="https://www.youtube.com/channel/UCusRwGcmycwUyw8j0bQG89w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
