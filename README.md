@@ -21,11 +21,11 @@
   <img align="center" alt="Geo-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- <img align="right" alt="GeoTI" height="100" width="100" scr=""> -->
-  
+  <img align="right" alt="GeoTI" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/85a1fe2d37cb8f0c15ed64ce067fd2a2942d1166/.github/workflows/GeovannaGame1TI.gif">
 </div>
   
 ## <!-- Eu qeuria colocar uma gif aqui pequena mas não sei como fazer isso não chei nada na inetnete como alterar tanho de gif -->
-  <img align="right" alt="GeoTI" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/85a1fe2d37cb8f0c15ed64ce067fd2a2942d1166/.github/workflows/GeovannaGame1TI.gif">
+  
 
 <div> <!-- Linkes de redirecionamento com imagems aqui -->
   <a href="https://www.youtube.com/channel/UCusRwGcmycwUyw8j0bQG89w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
