@@ -24,7 +24,7 @@
   <img align="right" alt="GeoTI" height="150" width="150" style="border-radius:50px;" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/b23d6d732b36611d71e2a3be7985d2ed7385309d/.github/workflows/GeovnnaG1TI.gif"> 
 </div>
   
-## <!-- Eu qeuria colocar uma gif aqui pequena mas não sei como fazer isso não chei nada na inetnete como alterar tanho de gif -->
+##
   
 
 <div> <!-- Linkes de redirecionamento com imagems aqui -->
