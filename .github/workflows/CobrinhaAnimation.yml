@@ -4,11 +4,6 @@ on:
   schedule: # execute every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
-  
-   push:
-    branches:
-    - master
-
 
 
 jobs:
