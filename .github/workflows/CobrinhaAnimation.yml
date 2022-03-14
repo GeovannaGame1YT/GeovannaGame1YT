@@ -17,10 +17,11 @@ jobs:
           github_user_name: GeovannaGame1YT
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push github-contribution-grid-snake.svg
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
