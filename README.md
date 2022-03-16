@@ -1,7 +1,7 @@
 ### Hi my name is Geovanna and I really like programming 👋
 
 - 🔭 I’m currently not working
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning React and Flutter Native
 - ⚡ Fun fact: I like to program Develop Software I like to make 3D modeling, animations, draw, make games and edit Videos and photos
 
 ##
@@ -47,7 +47,7 @@
   ### Olá me chamo Geovanna e gosto bastante de programação 👋
   
 - 🔭 Atualmente, não estou trabalhando
-- 🌱 Atualmente, estou aprendendo HTML, CSS e JavaScript
+- 🌱 Atualmente, estou aprendendo React e Flutter Native
 - ⚡ Curiosidade: Gosto de programar, Desenvolver Software gosto de fazer modelagem 3D, animações, desenhar, fazer jogos e editar Videos e foto
   
   
