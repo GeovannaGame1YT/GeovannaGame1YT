@@ -26,8 +26,7 @@
   <img align="right" alt="GeoTI" height="150" width="150" style="border-radius:50px;" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/b23d6d732b36611d71e2a3be7985d2ed7385309d/.github/workflows/GeovnnaG1TI.gif"> 
 </div>
   
-##
-  
+##  
 
 <div> <!-- Linkes de redirecionamento com imagems aqui -->
   <a href="https://www.youtube.com/channel/UCusRwGcmycwUyw8j0bQG89w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
