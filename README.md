@@ -1,7 +1,7 @@
 ### Hi my name is Geovanna and I really like programming 👋
 
 - 🔭 I’m currently not working
-- 🌱 I’m currently learning React and Flutter Native
+- 🌱 I’m currently learning React Native and Flutter
 - ⚡ Fun fact: I like to program Develop Software I like to make 3D modeling, animations, draw, make games and edit Videos and photos
 
 ##
@@ -26,6 +26,7 @@
   <img align="center" alt="Geo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <!-- <img align="right" alt="GeoTI" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/85a1fe2d37cb8f0c15ed64ce067fd2a2942d1166/.github/workflows/GeovannaGame1TI.gif">-->
   <img align="right" alt="GeoTI" height="150" width="150" style="border-radius:50px;" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/b23d6d732b36611d71e2a3be7985d2ed7385309d/.github/workflows/GeovnnaG1TI.gif"> 
+  <img src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/b23d6d732b36611d71e2a3be7985d2ed7385309d/.github/workflows/GeovnnaG1TI.gif?raw=true">
 </div>
   
 ##  
@@ -48,7 +49,7 @@
   ### Olá me chamo Geovanna e gosto bastante de programação 👋
   
 - 🔭 Atualmente, não estou trabalhando
-- 🌱 Atualmente, estou aprendendo React e Flutter Native
+- 🌱 Atualmente, estou aprendendo React Native e Flutter
 - ⚡ Curiosidade: Gosto de programar, Desenvolver Software gosto de fazer modelagem 3D, animações, desenhar, fazer jogos e editar Videos e foto
   
   
