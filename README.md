@@ -24,8 +24,8 @@
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Geo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Geo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <!-- <img align="right" alt="GeoTI" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/85a1fe2d37cb8f0c15ed64ce067fd2a2942d1166/.github/workflows/GeovannaGame1TI.gif">-->
-  <img align="right" alt="GeoTI" height="150" width="150" style="border-radius:50px;" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/b23d6d732b36611d71e2a3be7985d2ed7385309d/.github/workflows/GeovnnaG1TI.gif"> 
+ 
+  <img align="right" alt="GeoTI" height="150" width="150" style="border-radius:50px;" src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/b23d6d732b36611d71e2a3be7985d2ed7385309d/.github/workflows/GeovnnaG1TI.gif">
   <!--<img src="https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/b23d6d732b36611d71e2a3be7985d2ed7385309d/.github/workflows/GeovnnaG1TI.gif?raw=true">-->
 </div>
   
