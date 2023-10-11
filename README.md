@@ -42,7 +42,7 @@
   <!-- Cobrinha aqui -->
  ![Snake animation](https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/output/github-contribution-grid-snake.svg)
 
-  ![Snake animation](https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/output/github-user-contribution.svg)
+  ![Snake animation](https://github.com/GeovannaGame1YT/GeovannaGame1YT/blob/output/github-GeovannaGame1YT-contribution.svg)
  
 </div>
   
